@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Group9OMC\Group9OMC\bin\Debug\Group9OMC.exe.config
+C:\Users\user\source\repos\Group9OMC\Group9OMC\bin\Debug\Group9OMC.exe
+C:\Users\user\source\repos\Group9OMC\Group9OMC\bin\Debug\Group9OMC.pdb
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.Properties.Resources.resources
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.exe
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.pdb
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.frmHomePage.resources
+C:\Users\user\source\repos\Group9OMC\Group9OMC\obj\Debug\Group9OMC.frmLogIn.resources
